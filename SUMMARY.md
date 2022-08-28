@@ -18,4 +18,11 @@
 ## Learning
 
 * [Overview](learning/overview.md)
-* [Learn to work with Documentation](learning/learn-to-work-with-documentation.md)
+* [Working with Documentation](learning/working-with-documentation.md)
+
+***
+
+* [Courses](courses.md)
+* [Articles](articles.md)
+* [StackOverflow](stackoverflow.md)
+* [Software Development Principles](software-development-principles.md)

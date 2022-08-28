@@ -1,4 +1,4 @@
-# Learn to work with Documentation
+# Working with Documentation
 
 One of the most common pitfalls I've observed is that junior developers use StackOverflow too much. Don't get me wrong - it is an incredible knowledge base, however if you overuse StackOverflow it becomes the de facto way you learn things, which is bad. Even though answers are updated and the community standards are high, StackOverflow is a shortcut to learning. The best way to learn is from the source - the official docs and if the docs are not sufficient try going to the source code.
 
