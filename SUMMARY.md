@@ -14,3 +14,8 @@
 * [Medior](medior.md)
 * [Senior](senior.md)
 * [Super Senior (SS)](super-senior-ss.md)
+
+## Learning
+
+* [Overview](learning/overview.md)
+* [Learn to work with Documentation](learning/learn-to-work-with-documentation.md)
