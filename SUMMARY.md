@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Title Page](README.md)
+* [junior2mid](README.md)
 * [Preface](preface.md)
 * [About the authors](about-the-authors.md)
 
@@ -22,9 +22,6 @@
 
 ***
 
-* [Courses](courses.md)
-* [Articles](articles.md)
-* [StackOverflow](stackoverflow.md)
 * [Software Development Principles](software-development-principles.md)
 * [Git](git.md)
 * [Bash Basics](bash-basics.md)

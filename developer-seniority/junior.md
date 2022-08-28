@@ -1,16 +1,10 @@
 # Junior
 
-Junior developer is a starting position but this seniority level doesn’t have zero requirements.
-
-
-
-Tech skills required for the junior level must include:
+Junior developer is a starting position but this seniority level doesn’t have zero requirements. Tech skills required for the junior level must include:
 
 * Knowledge of at least one programming language and ability to solve 6th kyu rank of tasks on [www.codewars.com](http://www.codewars.com) in reasonable time. This means to have a usable knowledge of language features like variables, loops, branching, basic functions for standard data types
-* Depending on the area of the development (backend/frontend) to be acquainted with basic functionalities that are part of usual software. For example in the backend area this includes how to create entities; how to query a database, etc
+* Depending on the area of the development (backend/frontend) to be acquainted with basic functionalities that are part of usual software. For example in the backend area this includes how to create entities; how to query a database, etc...
 * Git or some other version of source code management tool
-
-
 
 Learning capability of junior developers:
 

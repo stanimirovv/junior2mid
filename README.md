@@ -4,4 +4,6 @@ coverY: 0
 layout: landing
 ---
 
-<figure><img src=".gitbook/assets/5BDFF5A6-3335-4461-81B2-1CBC3A5FDECA (1).PNG" alt=""><figcaption></figcaption></figure>
+# junior2mid
+
+<figure><img src=".gitbook/assets/cover.png" alt=""><figcaption></figcaption></figure>
