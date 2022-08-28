@@ -26,3 +26,15 @@
 * [Articles](articles.md)
 * [StackOverflow](stackoverflow.md)
 * [Software Development Principles](software-development-principles.md)
+* [Git](git.md)
+* [Bash Basics](bash-basics.md)
+* [CI/CD Basics](ci-cd-basics.md)
+* [Software Architecture Basics](software-architecture-basics.md)
+
+## Doing
+
+* [Overview](doing/overview.md)
+
+***
+
+* [Coding and Debugging](coding-and-debugging.md)
