@@ -38,3 +38,17 @@
 ***
 
 * [Coding and Debugging](coding-and-debugging.md)
+* [Testing](testing.md)
+* [Documenting](documenting.md)
+
+## Communicating
+
+* [Overview](communicating/overview.md)
+
+***
+
+* [Asking for feedback](asking-for-feedback.md)
+* [Receiving feedback](receiving-feedback.md)
+* [Adequately Asking For Help](adequately-asking-for-help.md)
+* [Bonus: Finding the right place](bonus-finding-the-right-place.md)
+* [Final Words](final-words.md)
