@@ -1,6 +1,6 @@
 # Testing
 
-All software has bugs.&#x20;
+All software has bugs.
 
 Nevertheless as developers we must try to reduce their count as much as we can.
 
@@ -14,11 +14,11 @@ When you test your code imagine you will get a prize if you break it.
 
 Too often developers know where their code is fragile and choose to skip some of the testing there. Any bugs you leave will find their way back to you. Best fix them early.
 
-It is much better to delay a release but release with no bugs than release something and spend the next one or two weeks patching it bug after bug. As you can imagine the second scenario is much more stressful too.
+It is much better to delay a release, but release software with no bugs than to release something and spend the next one or two weeks patching it bug after bug. As you can imagine the second scenario is much more stressful too.
 
 If your company does automated tests all from above applies, but instead of testing manually do it with tests.
 
-One very important thing is that coverage doesn't show you the full picture. Coverage shows how much of the code has been passed through, but doesn't take into account the coverage of the combination of the branches.
+One very important thing is that line coverage doesn't show you the full picture. Line coverage shows how much of the code has been passed through, but doesn't take into account the coverage of the combination of the branches.
 
 Writing tests is a notoriously hard thing for developers, even experienced ones. Do not get discouraged. With enough practice you will master it.
 

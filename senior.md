@@ -22,4 +22,4 @@ Soft skills also get a bump up:
 * Relaxed attitude and improved approachability
 * Smarter suggestions on different approaches to solving the problems
 
-In short, senior can handle any task thrown at them, can help shape the implementation of the project
+In short, senior can handle any task thrown at them, and can also help shape the implementation of the project

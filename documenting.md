@@ -1,6 +1,6 @@
 # Documenting
 
-Documentation is not as fun as writing code, that's true. It is, however, when done adequately one of the better investments you can do.
+Documentation is not as fun as writing code, that's true. It is, however, when done adequately, one of the better investments you can do.
 
 Documentation will first and foremost help you. You won’t update the entire system constantly. Some parts of code will not have any checks or updates for months. When v2 is requested you will have forgotten a lot of the shortcuts and why specific decisions have been made. You will have to rediscover them which will cost you time.
 

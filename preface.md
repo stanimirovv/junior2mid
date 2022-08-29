@@ -1,10 +1,6 @@
 # Preface
 
-
-
-This book is going to help you get to the next level of your career faster.
-
-It contains practical principles which are, for the most part, technology agnostic. Regardless if you are a frontend, backend, mobile, embedded or machine learning developer you will still be able to apply them.
+This book is going to help you get to the next level of your career faster. It contains practical principles which are, for the most part, technology agnostic. Regardless if you are a frontend, backend, mobile, embedded or machine learning developer you will still be able to apply them.
 
 Study these principles, apply them and you will drastically shorten your path from a junior to mid level software developer. If you are a mid chances are this book will still be very useful to you. You can either use it to assess yourself or to fill in some gaps.
 
@@ -14,6 +10,6 @@ This book is written with the intent to be short - you should focus on acquiring
 
 This book is structured into 3 main parts:
 
-* Learning - different topics that you must learn and invest time in. This part finishes with some specific technologies that you must get familiar with that are integral part of modern software development and are domain agnostic.
-* Doing - skills that you must practice during your workday - how to get better at debugging, how to make sure that you introduce less bugs.
-* Communicating - how to make sure you communicate your intentions clearly and how to make yourself easy to mentor.
+* Learning - different topics that you must learn and invest time in. This part finishes with some specific technologies that you must get familiar with that are integral part of modern software development and are domain agnostic
+* Doing - skills that you must practice during your workday - how to get better at debugging, how to make sure that you introduce less bugs
+* Communicating - how to make sure you communicate your intentions clearly and how to make yourself easy to mentor
