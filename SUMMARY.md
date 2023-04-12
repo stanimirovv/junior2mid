@@ -45,8 +45,7 @@
 
 ***
 
-* [Asking for feedback](asking-for-feedback.md)
-* [Receiving feedback](receiving-feedback.md)
+* [Asking and recieving feedback](asking-for-feedback.md)
 * [Adequately Asking For Help](adequately-asking-for-help.md)
 * [Bonus: Finding the right place](bonus-finding-the-right-place.md)
 * [Final Words](final-words.md)

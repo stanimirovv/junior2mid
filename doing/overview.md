@@ -1,11 +1,11 @@
 # Overview
 
-Doing is just as important as learning. No matter how much you learn you will quickly forget things and build your knowledge base on a wrong foundation unless you practice, practice, practice. The good news is that most of these things you can do on company time as they are part of your job.
+Learning is important, but it is equally important to apply what you learn through practice. You may forget what you have learned or build your knowledge on an incorrect foundation if you do not practice enough. Fortunately, most of these practices can be applied on company time as they are a part of your job.
 
-For your personal time I would recommend leaning a bit towards the reading. If you have, let's say 40 minutes, spend 25 of them reading on a topic and 15 to quickly verify the things that made you feel uncomfortable or uncertain. Following your gut about things you don't understand is quite important when learning.
+For personal time, reading can be more beneficial. Spend around 25 minutes reading about a topic and allocate 15 minutes to quickly verify the things that you find confusing or uncertain. Trusting your instincts about things that you don't understand is crucial when it comes to learning.
 
-Unfortunately as people we tend to do examples with what we understand - not what we don't understand. The ratio is up to you but, try to incorporate as many of the practices as you can in your day job. It will both save you time and improve your skills as a professional.
+However, as humans, we tend to do examples with what we understand rather than what we don't understand. Therefore, it is essential to incorporate as many practices as possible into your daily job routine, as it will save you time and enhance your professional skills.
 
-The previous section had some specific books/topics/technologies that are a defacto standard and you must know. In the doing, we are entering unclear waters - things will be a lot more technology specific so we will stick just to the principles.&#x20;
+While the previous section included specific books, topics, and technologies that are the de facto standards and must-knows, in the doing, we are entering unclear waters. Things will become much more technology-specific, so it is better to stick to the principles.
 
-Finding resources should still be easy (at this point you have started learning how to filter out good resources from bad ones, right ?), but technology specific.
+In order to find resources that are technology-specific, you need to learn how to filter out good resources from the bad ones. This will help you make the best use of your time and ensure that you are learning the right things. Look for resources specific to the technology or programming language you are working with, as it will be more relevant to your work.

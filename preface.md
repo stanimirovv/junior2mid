@@ -6,8 +6,6 @@ Study these principles, apply them, and you will drastically shorten your path f
 
 A part of your journey to being a mid-level developer is to learn to work with documentation and efficiently search for information. Since this book practices what it preaches, it will mostly mark the topics along with their core message. It is up to you to dive deeper into those topics and apply them to your specific case.
 
-This book intends to be as short as possible: you should focus on acquiring the skills, not reading about what you need to learn. Even though the chapters are short, the guidance, principles and best practices are concentrated.
-
 This book consists of three main parts:
 
 * Learning - different topics that you must learn. This part ends with some specific technologies that you must get familiar with that are an integral part of modern software development and are domain-agnostic

@@ -1,25 +1,14 @@
 # Senior
 
-Senior has accumulated more technical knowledge, learning experience and soft skills, so now his technical knowledge should contain:
+A senior developer has accumulated more technical knowledge, learning experience, and soft skills than a mid-level developer. In addition to the technical skills required for mid-level developers, senior developers should also have:
 
-* Knowledge of multiple 3rd party libraries
-* Accumulation of solutions for various errors encountered before
-* Usage of patterns/dedication to writing clear and clean code
-* Ability to easily understand the connections between system components
-* Solutions to common tasks are uneventful.
+* Knowledge of multiple third-party libraries.
+* A wealth of solutions for various errors encountered before.
+* A dedication to writing clear and clean code, using patterns, and being able to understand the connections between system components.
+* The ability to easily solve common tasks.
 
-Learning at this stage:
+Learning at this stage is vastly improved as previous experience serves as a strong foundation for learning new technologies. Senior developers tend to avoid bandwagon thinking and are more thoughtful about spreading knowledge to their colleagues. They embrace code quality tools like auto-formatters and linters and gain more knowledge about the bigger picture, such as the differences between MVC and CQRS approaches in structuring an app.
 
-* Is vastly improved as previous experience is a strong foundation for learning new techs
-* There is less bandwagon thinking about technologies and accepting the hype
-* More thought is given to how to spread the knowledge to other colleagues
-* Embracing code quality tools like auto-formatters and linters
-* More knowledge is gained about the bigger picture, i.e. MVC vs CQRS approaches in structuring the app
+Soft skills also receive a bump up. Senior developers prioritize self-care to prevent burnout and have a more relaxed attitude and improved approachability. They offer smarter suggestions on different approaches to solving problems.
 
-Soft skills also get a bump up:
-
-* The self-care gets a priority to prevent burnout
-* Relaxed attitude and improved approachability
-* Smarter suggestions on different approaches to solving the problems.
-
-In short, seniors can handle any task thrown at them and help to shape the implementation of the project.
+In short, senior developers can handle any task thrown at them and help shape the implementation of the project. They have a deep understanding of the software development process and can provide guidance to their colleagues while maintaining a high level of technical expertise.

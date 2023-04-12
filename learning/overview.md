@@ -1,19 +1,21 @@
 # Overview
 
-One of the unique aspects in our field of work is that constantly learning isn't recommended, it is a must have. Of course you will never master everything, but the good news is that certain principles - the foundation is the same. A lot of the innovations are rehashed old concepts.
+One of the unique aspects of our field of work is that constantly learning is not just recommended, it is a must-have. Of course, it's impossible to master everything, but the good news is that many innovations are based on rehashed old concepts, and the foundation remains the same.&#x20;
 
-The bad news is that people forget and as you learn new things this changes your perception of old things - often rereading a book will be more valuable than the initial read! To make things even harder you will have to do most of your learning outside of work hours - investing your personal time. Maybe now it's starting to be clear why there is always a shortage of IT people :P
+The bad news is that people often forget what they've learned, and as you learn new things, your perception of old things changes. Rereading a book can be more valuable than the initial read! To make things even harder, you will have to do most of your learning outside of work hours, investing your personal time. It's starting to become clear why there is always a shortage of IT professionals.
 
-As long as you do it regularly, you don't need to invest that much time. I won't dare to put an estimate - it really depends on the individual, but if you are sacrificing your social/personal life to study you are doing something wrong. If you can't remember what was the last thing you were learning - it's definitely something to improve on.
+As long as you learn regularly, you don't need to invest a significant amount of time. It's difficult to estimate how much time each person needs, but sacrificing your social or personal life to study is not the right approach.&#x20;
 
-The most important thing is to do it regularly even if it's for a short amount of time. You will be surprised what 20-30 minutes of concentrated work can do when they start stacking up.
+If you can't remember what you were last learning, it's definitely something to improve on.&#x20;
 
-**Before we move on to the topics there are a few general guidelines I'd like to give on how to approach learning:**
+The most important thing is to **learn regularly**, even if it's only for a short amount of time. You'll be surprised how much 20-30 minutes of concentrated work can achieve when they start stacking up.
 
-* Try to be as rested as possible. If it is after work, make a short break before learning. Ideally do it before work
-* Do not change topics often. Since most likely you will be learning at short intervals do not mix things up. Dedicate a week or a month on a topic, then move on
-* Doing things regularly is more important than having large chunks of time
-* Keep yourself accountable - try not to be distracted, even if it is for 20 minutes at a time, do just that
-* Don't get overconfident, challenge your understanding
+Before we move on to the topics, here are a few general guidelines for approaching learning:
+
+* Try to be well-rested before learning. If it's after work, take a short break before studying. Ideally, study before work.
+* Don't change topics too often. Since you're likely to be learning in short intervals, don't mix things up. Dedicate a week or a month to a topic before moving on.
+* Regular study is more important than having large chunks of time.
+* Keep yourself accountable and avoid distractions, even if you're only studying for 20 minutes at a time.
+* Challenge your understanding and avoid overconfidence.
 
 With that out of the way, let's dive into the topics!
