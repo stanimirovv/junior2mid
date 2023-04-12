@@ -3,7 +3,6 @@
 * [junior2mid](README.md)
 * [Preface](preface.md)
 * [About the authors](about-the-authors.md)
-* [⭐ Contributing](contributing.md)
 
 ## Developer Seniority
 
