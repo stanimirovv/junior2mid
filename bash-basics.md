@@ -8,14 +8,12 @@ In addition to automation, Bash is also great for managing processes and environ
 
 Another advantage of Bash is that it is cross-platform. Bash scripts can run on virtually any platform, including Linux, macOS, and Windows (with the help of a third-party tool like Cygwin or WSL). This makes Bash an ideal choice for developers and system administrators who work in mixed-platform environments.
 
-While Bash is an essential tool for developers and system administrators, it can be challenging to learn, especially for beginners. However, there are many online resources and tutorials available that can help you get started with Bash. With time and practice, you can become proficient in Bash and take advantage of its powerful features to streamline your workflow and save time.
-
-Learning Bash is an essential skill for developers and system administrators. It provides a powerful command-line interface for working with remote systems, automating tasks, managing processes, and handling environments faster. While Bash can be challenging to learn, with the help of online resources and tutorials, you can quickly get up to speed and take advantage of its many benefits.
-
 Learning Bash can be a daunting task for beginners, but fortunately, there are many great resources available online to help you get started. Here are a few links to some of the best resources for learning Bash:
 
-1. LinuxCommand.org: This website provides a comprehensive introduction to Bash, covering topics such as basic commands, pipes and filters, and shell scripts. It also includes a number of interactive exercises to help you practice what you've learned.
-2. Bash Academy: This is a free online course that teaches you how to use Bash from the ground up. It covers everything from basic commands to shell scripting and advanced topics like regular expressions and process management.
-3. Bash Guide for Beginners: This is a great resource for those who are just starting out with Bash. It covers the basics of Bash scripting, including variables, control structures, loops, and functions.
+1. [https://www.learnshell.org/](https://www.learnshell.org/) - minimalistic site that will show you the basicis in a couple of hours
+2. LinuxCommand.org: This website provides a comprehensive introduction to Bash, covering topics such as basic commands, pipes and filters, and shell scripts. It also includes a number of interactive exercises to help you practice what you've learned.
+3. Bash Academy: This is a free online course that teaches you how to use Bash from the ground up. It covers everything from basic commands to shell scripting and advanced topics like regular expressions and process management.
 
-There are also many great books available on Bash, such as "Learning the bash Shell" by Cameron Newham and Bill Rosenblatt, and "Unix and Linux System Administration Handbook" by Evi Nemeth, Garth Snyder, Trent R. Hein, and Ben Whaley. By using these resources, you can become proficient in Bash in no time!
+
+
+There are also many great books available on Bash, but you are probablly well enough with the free online resources. Use these resources, experiment and you will become adept at bash in no time. Like most topics covered here - you don't have to be an expert, but you must be comfortable with writing and reading bash.

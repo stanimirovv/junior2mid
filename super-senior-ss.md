@@ -1,6 +1,8 @@
-# Super Senior (SS)
+# Staff+
 
-Not all seniors advance to this role, but these are the traits that correspond to SS seniority.
+⚠️ At this level things get **very blurry** and are usually **organisation specific**.
+
+Not all seniors advance to this role, but these are the traits that correspond to Staff+ seniority.
 
 Technical knowledge:
 
@@ -19,7 +21,10 @@ Learning skills are top level:
 
 Soft skills are top-notch:
 
-* Bringing the most value to customer/product in limited resources vs making everything perfect (it never is :D)
+* Bringing the most value to customer/product in limited resources vs making everything perfect&#x20;
 * Speak openly about the issues, pros and cons of solutions
 * Empowering learning within a team by carefully introducing new technologies that superseded existing tech
-* Delegation of tasks and responsibilities to team members (i.e. leave some core functionality to the other seniors on the team to free yourself some time for unexpected events).
+* Delegation of tasks and responsibilities to team members (i.e. leave some core functionality to the other seniors on the team to free yourself some time for unexpected events)
+
+Additionally, being a staff/principal developer often means that you have led a successful project in the scope of one or several organisations in the company. Things really get blurry at this stage outside of the big tech companies. The general consensus is that most people will get tenure at Medior or Senior developer. Reaching any level beyond that and being in the Individual Contributor track is rare and even though more (large) companies are introducing levels beyond senior it is often uncharted territory.
+

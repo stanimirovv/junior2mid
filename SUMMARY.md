@@ -13,7 +13,7 @@
 
 * [Medior](medior.md)
 * [Senior](senior.md)
-* [Super Senior (SS)](super-senior-ss.md)
+* [Staff+](super-senior-ss.md)
 
 ## Learning
 

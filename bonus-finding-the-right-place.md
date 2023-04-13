@@ -10,4 +10,4 @@ It can also be helpful to look for companies that prioritize collaboration and t
 
 Ultimately, you are responsible for your own growth and development, and it is up to you to take ownership of your career. While finding a nurturing and supportive environment can help you learn and grow, it is important to recognize that no environment is perfect. There will always be challenges and obstacles to overcome, and it is up to you to find ways to improve and move forward.
 
-Remember, your career is a journey, and there will be ups and downs along the way. It is up to you to take ownership of that journey and find ways to improve and move forward, even in the face of challenges and obstacles. By doing so, you can build a successful and fulfilling career as a junior developer.
+Remember, your career is a journey, and there will be ups and downs along the way. It is up to you to take ownership of that journey and find ways to improve and move forward, even in the face of challenges and obstacles. By doing so, you can build a successful and fulfilling career as a developer.

@@ -25,4 +25,4 @@ As a bonus to this chapter, here is a list to help you get started with getting 
 7. Prioritize the tasks based on their importance and urgency. Create a timeline for completing the tasks and set deadlines for yourself.
 8. Follow up with the person who provided feedback to show that you have taken their comments seriously. Provide updates on your progress and ask for additional feedback if needed.
 
-By following these steps, a junior developer can ask for feedback effectively and turn it into actionable tasks that will help them improve and grow in their role.
+Follow this list and you will soon a world of a difference!
